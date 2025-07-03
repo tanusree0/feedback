@@ -1,0 +1,13 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "This is a basic full-stack feedback logger built using:\r - **Node.js** for backend\r - **HTML** for frontend\r - **File System module** to store feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
